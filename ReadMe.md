@@ -15,7 +15,7 @@ Passionate about AI research, automation, and real-world NLP solutions.
 <h2 align="center">Let's connect and collaborate to build innovative AI-powered solutions.</h2>
 
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200px"/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="300px"/>
 <br>
 
 ## 🎓 EDUCATION
