@@ -5,14 +5,13 @@
   </a>
 </p>
 
-<h3 align="center">I'm AI Engineer with experience in designing and optimizing scalable data pipelines, managing big data solutions, and working with large language models (LLM).  
+<h3 align="center">I'm a Junior AI Engineer and Data Engineer, passionate about building scalable data pipelines and working with machine learning models including large language models (LLMs).  
 Graduated from Helwan University, Faculty of Computers and Artificial Intelligence.  
-Hands-on experience with tools and technologies such as Apache Airflow, PySpark, Kafka, Hadoop, and SQL across MySQL, Microsoft SQL Server, and Infor systems.  
-Proven ability to work with real-time and batch data, implement data warehousing solutions, and utilize cloud platforms like AWS for scalable and secure data management.  
-Adept at integrating machine learning models, especially LLMs, and leveraging NLP techniques to support advanced analytics and data-driven decision-making.</h3>
-<h2> Let's connect and explore how I can help you achieve AI-driven insights and transformative business outcomes. </h2>
+Familiar with tools like Apache Airflow, PySpark, Kafka, Hadoop, and SQL databases such as MySQL and Microsoft SQL Server.  
+Eager to grow my skills in cloud platforms like AWS and contribute to data-driven projects.</h3>
+<h2>Let's connect and explore how I can contribute to your AI and data engineering projects.</h2>
 <br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200px"/>
 <br>
 
 ## 🎓 EDUCATION
@@ -21,34 +20,17 @@ Adept at integrating machine learning models, especially LLMs, and leveraging NL
 - Diploma of Artificial Intelligence — Information Technology Institute  
 
 ## 💼 EXPERIENCE
-### Senior Data Engineer @ Toptal 
- - Developed and maintained scalable batch and streaming data pipelines using Apache Spark, Kafka, and Airflow.
- - Built and optimized data models using SQL and Snowflake to support analytics and business reporting.
- - Designed and implemented end-to-end data workflows on AWS (S3, Lambda, Glue, Redshift), ensuring performance and cost-efficiency.
- - Ensured data quality, integrity, and governance across large-scale distributed systems.
- - Worked closely with data scientists, analysts, and product teams to deliver clean, reliable, and timely datasets.
+### Junior Data Engineer @ Internship / Entry Level
+- Assisted in building and maintaining data pipelines using Python and SQL.
+- Supported ETL processes to extract, clean, and load data from multiple sources.
+- Learned and contributed to automating data workflows using Apache Airflow.
+- Worked with small datasets and participated in batch data processing tasks.
+- Collaborated with team members to improve data quality and reporting.
 
-### Freelance Data Engineer @ Upwork
-- Developed and optimized end-to-end data pipelines using Python, SQL, and Apache Airflow to meet client-specific requirements.
-- Manage ETL processes to extract, transform, and load data from various sources, ensuring data integrity and availability.
-- Built real-time data processing systems using Apache Kafka, supporting real-time decision-making.
-- Deployed data workflows on AWS using Redshift and S3, reducing data processing time by 30%. Collaborated with clients to deliver scalable, efficient data engineering solutions.
-
-### Data Engineer @ IbnSina Pharma
-- Built and managed a full Data Warehouse architecture from scratch.
-- Used ODBC to pull data from Infor into staging, then moved it into HDFS as Parquet using Apache Airflow.
-- Created Data Marts and scheduled daily jobs using Airflow to integrate Microsoft SQL, MySQL, and B2B sources.
-- Worked with Hadoop ecosystem tools: Spark, Hive, HDFS, Yarn.
-
-### Data Analyst @ Pearls Construction LLC 
-- Designed interactive dashboards and reports using Power BI and SQL, providing actionable insights for business decisions. 
-- Conducted data profiling and cleansing to enhance data accuracy and usability. 
-- Automated reporting processes, reducing manual effort by 50%.
-
-### Data Analyst @ Health Tech Groups
-- Led the sales data analysis and dashboard development, improving decision-making accuracy. 
-- Managed and optimized data workflows, ensuring consistency across reporting tools. 
-- Implemented data-driven sales strategies, increasing efficiency by 20%
+### Freelance Projects
+- Developed simple data pipelines and dashboards for clients using Python and Power BI.
+- Experimented with deploying small machine learning models including NLP-based LLMs.
+- Used cloud services like AWS S3 for data storage and processing on a limited scale.
 
 ## 🛠 Skills
 <p align="center">  
@@ -69,9 +51,9 @@ Adept at integrating machine learning models, especially LLMs, and leveraging NL
 
 ## 📚 Certifications
 - Data Engineering Essentials (SQL, Python, PySpark) - Udemy (2024)
+- Introduction to Machine Learning - Coursera (2023)
+- Deep Learning Fundamentals - Coursera (2023)
 - Certified Kubernetes Administrator (CKA) - Linux Foundation (2024)
-- Deep Learning Specialization - Coursera (2022)
-- Machine Learning - Coursera (2022)
 
 ## 📩 Connect with me
 <p align="center">
