@@ -1,18 +1,84 @@
-# 💫 About Me:
-Greetings! I'm Abdalla Elshamy, a dedicated data scientist with a strong passion for machine learning. With a background in data science, I thrive on extracting insights from data and building predictive models that drive informed decisions. My journey in the realm of machine learning is fueled by curiosity and a relentless pursuit of knowledge. Through my GitHub profile, I invite you to explore the projects I've undertaken, showcasing my skills and expertise in this dynamic field. Let's delve into the world of data together and uncover its hidden potentials!
+<h1 align="center">Hi, I'm Abdalla Elshamy 👋</h1>
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+Abdalla's+Github+!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Vujahday+Script&color=%23876CF7&size=35&height=60&lines=Welcome+to+Abdalla's+Github+!" alt="Typing SVG" />
+  </a>
+</p>
 
+<h3 align="center">I'm AI Engineer with experience in designing and optimizing scalable data pipelines, managing big data solutions, and working with large language models (LLM).  
+Graduated from Helwan University, Faculty of Computers and Artificial Intelligence.  
+Hands-on experience with tools and technologies such as Apache Airflow, PySpark, Kafka, Hadoop, and SQL across MySQL, Microsoft SQL Server, and Infor systems.  
+Proven ability to work with real-time and batch data, implement data warehousing solutions, and utilize cloud platforms like AWS for scalable and secure data management.  
+Adept at integrating machine learning models, especially LLMs, and leveraging NLP techniques to support advanced analytics and data-driven decision-making.</h3>
+<h2> Let's connect and explore how I can help you achieve AI-driven insights and transformative business outcomes. </h2>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<br>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdalla%Elshamy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abdalla%Elshamy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdalla%Elshamy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Abdalla%Elshamy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Abdalla%Elshamy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Abdalla%Elshamy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Abdalla%Elshamy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abdalla%Elshamy) 
+## 🎓 EDUCATION
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abdalla-Elshamy2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abdalla-Elshamy2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Elshamy2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- Bachelor's Degree in Computers and Artificial Intelligence — Helwan University, Egypt  
+- Diploma of Artificial Intelligence — Information Technology Institute  
 
----
-[![](https://visitcount.itsvg.in/api?id=Abdalla-Elshamy2003&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💼 EXPERIENCE
+### Senior Data Engineer @ Toptal 
+ - Developed and maintained scalable batch and streaming data pipelines using Apache Spark, Kafka, and Airflow.
+ - Built and optimized data models using SQL and Snowflake to support analytics and business reporting.
+ - Designed and implemented end-to-end data workflows on AWS (S3, Lambda, Glue, Redshift), ensuring performance and cost-efficiency.
+ - Ensured data quality, integrity, and governance across large-scale distributed systems.
+ - Worked closely with data scientists, analysts, and product teams to deliver clean, reliable, and timely datasets.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Freelance Data Engineer @ Upwork
+- Developed and optimized end-to-end data pipelines using Python, SQL, and Apache Airflow to meet client-specific requirements.
+- Manage ETL processes to extract, transform, and load data from various sources, ensuring data integrity and availability.
+- Built real-time data processing systems using Apache Kafka, supporting real-time decision-making.
+- Deployed data workflows on AWS using Redshift and S3, reducing data processing time by 30%. Collaborated with clients to deliver scalable, efficient data engineering solutions.
+
+### Data Engineer @ IbnSina Pharma
+- Built and managed a full Data Warehouse architecture from scratch.
+- Used ODBC to pull data from Infor into staging, then moved it into HDFS as Parquet using Apache Airflow.
+- Created Data Marts and scheduled daily jobs using Airflow to integrate Microsoft SQL, MySQL, and B2B sources.
+- Worked with Hadoop ecosystem tools: Spark, Hive, HDFS, Yarn.
+
+### Data Analyst @ Pearls Construction LLC 
+- Designed interactive dashboards and reports using Power BI and SQL, providing actionable insights for business decisions. 
+- Conducted data profiling and cleansing to enhance data accuracy and usability. 
+- Automated reporting processes, reducing manual effort by 50%.
+
+### Data Analyst @ Health Tech Groups
+- Led the sales data analysis and dashboard development, improving decision-making accuracy. 
+- Managed and optimized data workflows, ensuring consistency across reporting tools. 
+- Implemented data-driven sales strategies, increasing efficiency by 20%
+
+## 🛠 Skills
+<p align="center">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NiFi-003366?style=for-the-badge&logo=data&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-BE94E3?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-FF6F61?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+## 📚 Certifications
+- Data Engineering Essentials (SQL, Python, PySpark) - Udemy (2024)
+- Certified Kubernetes Administrator (CKA) - Linux Foundation (2024)
+- Deep Learning Specialization - Coursera (2022)
+- Machine Learning - Coursera (2022)
+
+## 📩 Connect with me
+<p align="center">
+  <a href="mailto:abdalla.elshamy@example.com" title="Gmail">
+    <img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdalla-elshamy/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
